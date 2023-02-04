@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Prevent plots from being uploaded every time the project is updated
+plots_Country_pathogen/
