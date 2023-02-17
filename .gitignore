@@ -131,3 +131,4 @@ dmypy.json
 # Prevent plots from being uploaded every time the project is updated
 plots_Country_pathogen/
 plots_gaussian_general/
+plots_intervention/
