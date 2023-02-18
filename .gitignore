@@ -132,3 +132,4 @@ dmypy.json
 plots_Country_pathogen/
 plots_gaussian_general/
 plots_intervention/
+plots_intervention_rbf_plus/
