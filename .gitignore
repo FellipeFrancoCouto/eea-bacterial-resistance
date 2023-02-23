@@ -133,3 +133,7 @@ plots_Country_pathogen/
 plots_gaussian_general/
 plots_intervention/
 plots_intervention_rbf_plus/
+
+# Ignore logs
+log_gpr1.txt
+log_gpr2.txt
